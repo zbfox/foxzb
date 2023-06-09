@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    --background-black:#181718b0;
+    --color-grey:#9c9c9c;
+    --color-black:#181718;
+    --color-blue:#976dff;
+}
+
+ul,li{
+    list-style-type: none;
+}
